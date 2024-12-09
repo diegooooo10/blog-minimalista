@@ -1,11 +1,16 @@
 ---
-import Welcome from '../components/Welcome.astro';
-import Layout from '../layouts/Layout.astro';
-
-// Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
-// Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
+import PostCard from "../components/PostCard.astro";
+import Layout from "../layouts/Layout.astro";
+import Posts from "../mocks/Posts.json";
 ---
 
-<Layout>
-	<Welcome />
+<Layout pageTitle="Pagina Principal">
+  <h1 class="text-center text-4xl my-10 font-bold">Blog minimalista</h1>
+  <section
+    class="flex flex-col p-5 items-center justify-center min-h-screen select-none"
+  >
+    <div class="grid md:grid-cols-3 gap-5">
+      {Posts.map((post) => <PostCard {...post} />)}
+    </div>
+  </section>
 </Layout>

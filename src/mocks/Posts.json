@@ -1,0 +1,138 @@
+[
+  {
+    "slug": "aprendiendo-astro",
+    "title": "Aprendiendo Astro",
+    "date": "2024-12-06",
+    "description": "Descubre cómo empezar con Astro y sus ventajas para sitios web estáticos.",
+    "category": "Desarrollo Web",
+    "content": "Astro es un framework increíble para construir sitios web rápidos y estáticos. Es fácil de usar y permite integrar cualquier tecnología moderna como React, Vue o Svelte. En este artículo, exploraremos los pasos básicos para configurarlo y crear tu primer proyecto."
+  },
+  {
+    "slug": "tailwind-css-basico",
+    "title": "Guía básica de Tailwind CSS",
+    "date": "2024-11-15",
+    "description": "Aprende cómo usar Tailwind CSS para crear diseños rápidos y modernos.",
+    "category": "CSS",
+    "content": "Tailwind CSS es un framework de utilidades que facilita la creación de interfaces con clases predefinidas. En esta guía, te mostraré cómo instalarlo, configurarlo y usarlo para crear un diseño responsivo y atractivo."
+  },
+  {
+    "slug": "mejores-practicas-react",
+    "title": "Mejores prácticas en React",
+    "date": "2024-10-20",
+    "description": "Optimiza tus proyectos de React con estas mejores prácticas.",
+    "category": "React",
+    "content": "React es una biblioteca poderosa para construir interfaces, pero usarlo eficientemente requiere entender ciertas prácticas. En este artículo, cubrimos el uso adecuado de hooks, la separación de componentes y cómo manejar estados complejos con Context API o Redux."
+  },
+  {
+    "slug": "diseño-ux-principiantes",
+    "title": "Diseño UX para principiantes",
+    "date": "2024-10-05",
+    "description": "Introducción al diseño UX y cómo mejorar la experiencia del usuario en tus proyectos.",
+    "category": "Diseño",
+    "content": "El diseño UX (experiencia del usuario) es fundamental para cualquier aplicación exitosa. Aquí exploramos los principios básicos del diseño UX, como la accesibilidad, la navegación intuitiva y cómo realizar pruebas de usabilidad."
+  },
+  {
+    "slug": "aplicacion-del-clima",
+    "title": "Cómo construir una aplicación del clima",
+    "date": "2024-09-25",
+    "description": "Crea una app del clima usando APIs y JavaScript.",
+    "category": "JavaScript",
+    "content": "Aprende a construir una aplicación del clima que muestra datos en tiempo real usando la API de OpenWeather. Te enseñaré cómo hacer solicitudes HTTP con Fetch, manejar errores y mostrar los datos en una interfaz atractiva."
+  },
+  {
+    "slug": "graphql-introduccion",
+    "title": "Introducción a GraphQL",
+    "date": "2024-09-15",
+    "description": "Descubre qué es GraphQL y cómo se compara con REST.",
+    "category": "Backend",
+    "content": "GraphQL es una alternativa moderna a las APIs REST. Ofrece una forma flexible de obtener los datos que necesitas y nada más. En este artículo, exploraremos cómo funciona, sus ventajas y cómo empezar a usarlo en tus proyectos."
+  },
+  {
+    "slug": "nodejs-consejos",
+    "title": "Consejos para trabajar con Node.js",
+    "date": "2024-09-10",
+    "description": "Mejora tu productividad en Node.js con estos consejos prácticos.",
+    "category": "Backend",
+    "content": "Node.js es una herramienta poderosa, pero aprovecharla al máximo requiere conocer trucos como la modularidad, el uso de promesas y el manejo de errores. Aquí comparto mis mejores consejos basados en experiencia."
+  },
+  {
+    "slug": "seo-para-desarrolladores",
+    "title": "SEO para desarrolladores",
+    "date": "2024-08-30",
+    "description": "Optimiza tus sitios web para motores de búsqueda con técnicas simples.",
+    "category": "SEO",
+    "content": "El SEO (optimización para motores de búsqueda) es esencial para aumentar el tráfico a tus sitios web. Aprende técnicas básicas como la optimización de metadatos, el uso de etiquetas semánticas y la mejora del tiempo de carga."
+  },
+  {
+    "slug": "vue-3-composicion",
+    "title": "Vue 3 y el API de composición",
+    "date": "2024-08-15",
+    "description": "Explora las ventajas del API de composición en Vue 3.",
+    "category": "Frontend",
+    "content": "Vue 3 trae una nueva forma de manejar estados y lógica con su API de composición. En este post, analizamos cómo usarlo, ejemplos prácticos y por qué es una mejora respecto al API de opciones."
+  },
+  {
+    "slug": "aprender-typescript",
+    "title": "Por qué aprender TypeScript",
+    "date": "2024-08-05",
+    "description": "Descubre los beneficios de TypeScript para proyectos grandes.",
+    "category": "TypeScript",
+    "content": "TypeScript mejora la experiencia de desarrollo al agregar tipos estáticos a JavaScript. Aprende cómo puede prevenir errores, mejorar la productividad y facilitar la colaboración en equipos grandes."
+  },
+  {
+    "slug": "landing-page-html-css",
+    "title": "Crea una Landing Page con HTML y CSS",
+    "date": "2024-07-25",
+    "description": "Guía paso a paso para diseñar una Landing Page atractiva.",
+    "category": "HTML/CSS",
+    "content": "En este artículo, te mostraré cómo construir una Landing Page profesional desde cero, utilizando solo HTML y CSS. Aprenderás a estructurar el contenido y agregar estilos modernos."
+  },
+  {
+    "slug": "gestion-de-estados-react",
+    "title": "Gestión de estados en React",
+    "date": "2024-07-10",
+    "description": "Explora opciones populares para manejar estados en React.",
+    "category": "React",
+    "content": "Manejar estados en React puede ser un desafío, especialmente en aplicaciones grandes. Aquí analizamos soluciones como Context API, Redux y Zustand, y cuándo elegir cada una."
+  },
+  {
+    "slug": "despliegue-vercel",
+    "title": "Cómo desplegar en Vercel",
+    "date": "2024-06-30",
+    "description": "Guía sencilla para alojar tus proyectos en Vercel.",
+    "category": "DevOps",
+    "content": "Vercel es una plataforma increíble para desplegar sitios estáticos y aplicaciones web. Aprende cómo configurar un proyecto, conectarlo a un repositorio de Git y publicarlo en minutos."
+  },
+  {
+    "slug": "react-router-basico",
+    "title": "Uso básico de React Router",
+    "date": "2024-06-20",
+    "description": "Crea rutas dinámicas y navegación en React.",
+    "category": "React",
+    "content": "React Router es la librería estándar para manejar navegación en aplicaciones React. Aprende cómo configurar rutas, usar parámetros dinámicos y crear un sistema de navegación completo."
+  },
+  {
+    "slug": "testing-en-jest",
+    "title": "Introducción al testing con Jest",
+    "date": "2024-06-10",
+    "description": "Crea pruebas unitarias efectivas con Jest.",
+    "category": "Testing",
+    "content": "Jest es una herramienta poderosa para escribir pruebas en JavaScript. Este artículo explora cómo configurarlo, escribir pruebas básicas y aprovechar su ecosistema para asegurar la calidad de tu código."
+  },
+  {
+    "slug": "automatizacion-deploy-github",
+    "title": "Automatización de Deploy con GitHub Actions",
+    "date": "2024-05-25",
+    "description": "Aprende cómo automatizar el despliegue continuo de tus proyectos.",
+    "category": "DevOps",
+    "content": "GitHub Actions es una plataforma robusta para CI/CD. Aprende cómo configurar un workflow que despliegue automáticamente tu proyecto cuando realizas cambios en tu repositorio."
+  },
+  {
+    "slug": "accesibilidad-web",
+    "title": "Principios básicos de accesibilidad web",
+    "date": "2024-05-10",
+    "description": "Haz tus aplicaciones accesibles para todos.",
+    "category": "Frontend",
+    "content": "La accesibilidad es un aspecto fundamental para llegar a un público amplio. Aprende técnicas para garantizar que tu sitio sea usable para personas con discapacidades, como el uso de etiquetas ARIA y contraste adecuado."
+  }
+]
