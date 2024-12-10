@@ -9,7 +9,7 @@ import Posts from "../mocks/Posts.json";
   <section
     class="flex flex-col p-5 items-center justify-center min-h-screen select-none"
   >
-    <div class="grid md:grid-cols-3 gap-5">
+    <div class="grid xl:grid-cols-4 md:grid-cols-3 gap-5">
       {Posts.map((post) => <PostCard {...post} />)}
     </div>
   </section>
